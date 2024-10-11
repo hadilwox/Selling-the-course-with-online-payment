@@ -1,0 +1,32 @@
+* {
+  font-family: DanaFaNum !important;
+}
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 50px;
+}
+
+#shorten-form {
+  max-width: 400px;
+  margin: auto;
+}
+
+#shorten-input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+#shorten-button {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  cursor: pointer;
+}
+
+#shorten-result {
+  margin-top: 20px;
+  font-weight: bold;
+}
